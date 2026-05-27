@@ -19,9 +19,9 @@ export const Footer = () => {
           >
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-purple-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold">RK</span>
+                <span className="text-white font-bold">RN</span>
               </div>
-              <span className="font-bold">Rishi Kumar</span>
+              <span className="font-bold">Rishabh Nautiyalr</span>
             </div>
             <p className="text-gray-400 text-sm">
               AI Product Manager & UX Strategist crafting human-centered products

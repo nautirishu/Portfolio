@@ -32,11 +32,11 @@ export const Navbar = () => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-purple-500 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold">RK</span>
-          </div>
+          {/* <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-purple-500 rounded-lg flex items-center justify-center">
+            <span className="text-white font-bold">RN</span>
+          </div> */}
           <span className="hidden sm:inline bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
-            Rishi Kumar
+            Rishabh Nautiyal
           </span>
         </motion.div>
 
